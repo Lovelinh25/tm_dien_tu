@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac18a1a9-9944-43a7-9d64-1c863495f3cc" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/markethome/controller/ReceptionistAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/markethome/controller/ReceptionistAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/markethome/controller/ServiceApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/markethome/controller/ServiceApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/markethome/reponsitory/ServiceRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/markethome/reponsitory/ServiceRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/markethome/controller/ReceptionistAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/markethome/controller/ReceptionistAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/markethome/controller/ServiceApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/markethome/controller/ServiceApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/markethome/reponsitory/ServiceRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/markethome/reponsitory/ServiceRepository.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2Y9tt1hvhps1vrpOORlFo5Ght2h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CSDL/khach",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="salonspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="salonspace" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemoconectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="MarketHome" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.markethome.SemoconectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac18a1a9-9944-43a7-9d64-1c863495f3cc" name="Changes" comment="" />
+      <created>1699949834633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699949834633</updated>
+      <workItem from="1699949849386" duration="977000" />
+      <workItem from="1699964882521" duration="1548000" />
+      <workItem from="1700017312187" duration="5908000" />
+      <workItem from="1700107674639" duration="10197000" />
+      <workItem from="1700147388853" duration="6102000" />
+      <workItem from="1700230279280" duration="830000" />
+      <workItem from="1700258718426" duration="13000" />
+      <workItem from="1700366053735" duration="3243000" />
+      <workItem from="1700395902639" duration="619000" />
+      <workItem from="1700489534766" duration="2233000" />
+      <workItem from="1700498874966" duration="108000" />
+      <workItem from="1700510681459" duration="6068000" />
+      <workItem from="1700559253989" duration="71000" />
+      <workItem from="1700562079544" duration="339000" />
+      <workItem from="1700584925334" duration="2118000" />
+      <workItem from="1700618707621" duration="828000" />
+      <workItem from="1700619695976" duration="12897000" />
+      <workItem from="1700724330062" duration="10750000" />
+      <workItem from="1700887480802" duration="4218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
